@@ -1,1 +1,1 @@
-Trabajo Practico realizado con un compilador C17, y con el entorno brindado por MSYS2 UCRT64. 
+Trabajo Practico realizado con un compilador MINGW. 
